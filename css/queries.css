@@ -43,13 +43,13 @@
     justify-content: center;
   }
 
-  .hero__image {
+  /* .hero__image {
     width: 70%;
     position: static;
     transform: none;
     display: block;
     margin: 3rem auto 0;
-  }
+  } */
 }
 
 /* === MOBILE SCREENS (max-width: 768px) === */
@@ -179,12 +179,12 @@
     margin-top: 3rem;
   }
 
-  .hero__image {
+  /* .hero__image {
     position: static;
     transform: none;
     width: 70%;
     margin: 3rem auto 0;
-  }
+  } */
 }
 
 /* === SMALL MOBILE (max-width: 480px) === */
