@@ -116,6 +116,10 @@
 
 /* Responsive Typography */
 @media (max-width: 768px) {
+  .card-section {
+    margin-top: 82rem;
+  }
+
   .cardsection-heading {
     font-size: 2rem;
   }
@@ -132,6 +136,10 @@
 }
 
 @media (max-width: 480px) {
+  .card-section {
+    margin-top: 44rem;
+  }
+
   .grid-container {
     grid-template-columns: 1fr;
     gap: 1.5rem;

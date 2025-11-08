@@ -130,7 +130,8 @@
 
   .site-header__wrapper {
     display: flex;
-    gap: 30rem;
+    gap: 53rem;
+    padding-right: 2rem;
   }
 
   .site-nav__list {
@@ -189,14 +190,12 @@
     flex-direction: column;
     align-items: center;
     margin-top: 3rem;
+    margin-bottom: 3rem;
   }
 
-  /* .hero__image {
-    position: static;
-    transform: none;
-    width: 70%;
-    margin: 3rem auto 0;
-  } */
+  .hero__image {
+    width: 75%;
+  }
 }
 
 /* === SMALL MOBILE (max-width: 480px) === */
@@ -212,6 +211,12 @@
     text-decoration: none;
     gap: 8px;
     white-space: nowrap;
+  }
+
+  .site-header__wrapper {
+    display: flex;
+    gap: 30rem;
+    padding-right: 2rem;
   }
 
   .site-header__brand {
@@ -234,5 +239,6 @@
 
   .hero__features {
     gap: 1rem;
+    margin-bottom: 3rem;
   }
 }

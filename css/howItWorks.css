@@ -62,17 +62,6 @@
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/* ===== BASE STYLES ===== */
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
