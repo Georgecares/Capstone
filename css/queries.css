@@ -116,6 +116,10 @@
     gap: 1rem;
   }
 
+  .site-header__brand {
+    white-space: nowrap;
+  }
+
   .site-header__wrapper {
     display: flex;
     gap: 30rem;
@@ -195,6 +199,10 @@
 
   .site-header__logo {
     font-size: 2.4rem;
+  }
+
+  .site-header__brand {
+    white-space: nowrap;
   }
 
   .hero__title {
