@@ -116,6 +116,14 @@
     gap: 1rem;
   }
 
+  .site-header__logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 8px;
+    white-space: nowrap;
+  }
+
   .site-header__brand {
     white-space: nowrap;
   }
@@ -199,6 +207,11 @@
 
   .site-header__logo {
     font-size: 2.4rem;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 8px;
+    white-space: nowrap;
   }
 
   .site-header__brand {
