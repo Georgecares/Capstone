@@ -198,6 +198,16 @@
   }
 }
 
+@media (max-width: 500px) {
+  .site-header__wrapper {
+    display: flex;
+    gap: 30rem;
+    padding-right: 2rem;
+  }
+}
+
+/* === SMALL MOBILE (max-width: 480px) === */
+
 /* === SMALL MOBILE (max-width: 480px) === */
 @media (max-width: 480px) {
   html {
