@@ -33,9 +33,9 @@
   --body-font: "Inter", sans-serif;
   --biggest-font-size: 2.5rem; /* 40px */
   --h1-font-size: 2.25rem; /* 36px */
-  --h2-font-size: 1.875rem; /* 30px */
-  --h3-font-size: 1.25rem; /* 20px */
-  --normal-font-size: 1rem; /* 16px */
+  --h2-font-size: 2rem; /* 30px */
+  --h3-font-size: 2.4rem; /* 20px */
+  --normal-font-size: 1.6rem; /* 16px */
   --small-font-size: 0.875rem; /* 14px */
 
   /* Font Weight */
@@ -103,7 +103,7 @@ img {
 
 /* ===== REUSABLE CSS CLASSES ===== */
 .container {
-  max-width: 1120px;
+  /* max-width: 1120px; */
   margin-left: var(--spacing-md);
   margin-right: var(--spacing-md);
 }
@@ -144,7 +144,7 @@ img {
 .how-it-works__steps {
   display: grid;
   gap: var(--spacing-lg);
-  max-width: 700px;
+  max-width: 90rem;
   margin: 0 auto;
 }
 .step-item {

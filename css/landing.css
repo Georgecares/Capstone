@@ -34,11 +34,11 @@
   /* 36px */
   --h2-font-size: 2rem;
   /* 30px */
-  --h3-font-size: 1.25rem;
+  --h3-font-size: 2rem;
   /* 20px */
-  --normal-font-size: 1rem;
+  --normal-font-size: 1.8rem;
   /* 16px */
-  --small-font-size: 0.875rem;
+  --small-font-size: 1.6rem;
   /* 14px */
 
   /* Font Weight */
@@ -110,7 +110,7 @@ img {
 
 /* REUSABLE CSS CLASSES */
 .container {
-  max-width: 1120px;
+  max-width: 1320px;
   margin-left: var(--spacing-md);
   margin-right: var(--spacing-md);
 }
@@ -244,7 +244,7 @@ img {
   display: inline-flex;
   align-items: center;
   gap: var(--spacing-sm);
-  font-size: 1.5rem;
+  font-size: 2.4rem;
   font-weight: var(--font-bold);
   color: var(--white-color);
   margin-bottom: 0;
@@ -292,7 +292,7 @@ img {
     --biggest-font-size: 3rem;
     --h1-font-size: 2.5rem;
     --h2-font-size: 2rem;
-    --h3-font-size: 1.5rem;
+    --h3-font-size: 2rem;
   }
 
   .footer__container {
