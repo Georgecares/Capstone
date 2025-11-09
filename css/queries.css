@@ -55,7 +55,7 @@
 /* === MOBILE SCREENS (max-width: 768px) === */
 @media (max-width: 768px) {
   html {
-    font-size: 55%;
+    font-size: 60%;
   }
 
   .nav-toggle {
@@ -201,7 +201,7 @@
 /* === SMALL MOBILE (max-width: 480px) === */
 @media (max-width: 480px) {
   html {
-    font-size: 50%;
+    font-size: 60%;
   }
 
   .site-header__logo {
@@ -215,7 +215,7 @@
 
   .site-header__wrapper {
     display: flex;
-    gap: 30rem;
+    gap: 25rem;
     padding-right: 2rem;
   }
 

@@ -32,10 +32,10 @@
   --body-font: "Inter", sans-serif;
   --biggest-font-size: 2.5rem;
   --h1-font-size: 2.25rem;
-  --h2-font-size: 1.875rem;
+  --h2-font-size: 2.4rem;
   --h3-font-size: 1.25rem;
   --normal-font-size: 1rem;
-  --small-font-size: 0.875rem;
+  --small-font-size: 1rem;
 
   /* Font Weight */
   --font-regular: 400;
@@ -119,7 +119,7 @@ img {
 }
 
 .emergency-features__description {
-  font-size: 1.125rem;
+  font-size: 2rem;
   color: var(--text-color-light);
   margin-bottom: 32px;
 }
@@ -142,7 +142,7 @@ img {
 }
 
 .emergency-features__item-title {
-  font-size: 1.125rem;
+  font-size: 2rem;
   font-weight: var(--font-semibold);
   color: var(--dark-color);
   margin-top: 0;
@@ -150,7 +150,7 @@ img {
 }
 
 .emergency-features__item-text {
-  font-size: 0.95rem;
+  font-size: 1.7rem;
   color: var(--text-color-light);
   margin: 0;
 }
@@ -244,7 +244,7 @@ img {
 }
 
 .emergency-alert-card__title {
-  font-size: 1.1rem;
+  font-size: 2rem;
   font-weight: var(--font-semibold);
   color: var(--dark-color);
   margin: 0;
@@ -277,7 +277,7 @@ img {
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  font-size: 0.95rem;
+  font-size: 1.6rem;
 }
 
 .emergency-alert-card__label {
@@ -313,7 +313,7 @@ img {
 
 .emergency-alert-card__info-box p {
   margin: 0;
-  font-size: 0.8125rem;
+  font-size: 1.6rem;
   background-color: var(--blue-light);
   color: var(--blue-dark);
   font-weight: var(--font-medium);
@@ -330,7 +330,7 @@ img {
   }
 
   .emergency-features__heading {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 
   .emergency-features__description {
@@ -354,7 +354,7 @@ img {
   :root {
     --biggest-font-size: 3rem;
     --h1-font-size: 2.5rem;
-    --h2-font-size: 2rem;
+    --h2-font-size: 2.4rem;
     --h3-font-size: 1.5rem;
   }
 }
