@@ -172,7 +172,6 @@ img {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  max-width: 1000;
 }
 
 .cta__container {
@@ -193,7 +192,7 @@ img {
 }
 
 .cta__container p {
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   opacity: 0.9;
   /* max-width: 500px; */
   margin: 0 auto 2rem auto;
@@ -211,6 +210,7 @@ img {
 .cta__container span {
   font-size: var(--small-font-size);
   opacity: 0.8;
+  padding: 0 1.5rem;
 }
 
 /* FOOTER */
