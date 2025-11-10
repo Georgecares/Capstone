@@ -332,6 +332,6 @@ html {
 .hero__image {
   max-width: 100%;
   height: auto;
-  position: static; /* remove absolute positioning */
+  position: static;
   transform: none;
 }
