@@ -8,7 +8,7 @@
   padding: 5rem 2rem;
   gap: 5rem;
   background-color: #fff;
-  margin-top: 23rem;
+  margin-top: -28rem;
   z-index: 10;
 }
 
@@ -116,15 +116,10 @@
 }
 
 /* Responsive Typography */
-/* @media (max-width: 900px) {
-  .card-section {
-    margin-top: 59rem;
-  }
-} */
 
 @media (max-width: 768px) {
   .card-section {
-    margin-top: 74rem;
+    margin-top: -40rem;
   }
 
   .cardsection-heading {
@@ -144,7 +139,7 @@
 
 @media (max-width: 480px) {
   .card-section {
-    margin-top: 38rem;
+    margin-top: -28rem;
   }
 
   .grid-container {
