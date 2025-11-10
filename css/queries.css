@@ -52,6 +52,14 @@
   } */
 }
 
+/* === MOBILE SCREENS (max-width: 900px) === */
+
+@media (max-width: 900px) {
+  html {
+    font-size: 65%;
+  }
+}
+
 /* === MOBILE SCREENS (max-width: 768px) === */
 @media (max-width: 768px) {
   html {

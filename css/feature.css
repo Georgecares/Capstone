@@ -116,6 +116,12 @@
 }
 
 /* Responsive Typography */
+@media (max-width: 900px) {
+  .card-section {
+    margin-top: 59rem;
+  }
+}
+
 @media (max-width: 768px) {
   .card-section {
     margin-top: 74rem;
@@ -138,7 +144,7 @@
 
 @media (max-width: 480px) {
   .card-section {
-    margin-top: 42rem;
+    margin-top: 33rem;
   }
 
   .grid-container {
