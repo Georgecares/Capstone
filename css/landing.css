@@ -192,11 +192,12 @@ img {
 }
 
 .cta__container p {
-  font-size: 2.2rem;
+  font-size: 2rem;
   opacity: 0.9;
   /* max-width: 500px; */
   margin: 0 auto 2rem auto;
   align-items: center;
+  padding: 0 2rem;
 }
 
 .cta__buttons {
