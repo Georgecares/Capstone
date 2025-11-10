@@ -121,6 +121,7 @@ img {
   max-width: 600px;
   margin: 0 auto 3rem auto;
   text-align: center;
+  padding: 0 2rem;
 }
 .section-header h2 {
   font-size: var(--h2-font-size);
@@ -146,6 +147,7 @@ img {
   gap: var(--spacing-lg);
   max-width: 90rem;
   margin: 0 auto;
+  padding: 0 2rem;
 }
 .step-item {
   display: flex;
